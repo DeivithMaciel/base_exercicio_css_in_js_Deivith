@@ -5,8 +5,6 @@ import ListaVagas from './containers/ListaVagas'
 
 import EstiloGlobal, { Container, Tema } from './global'
 
-import './global.css'
-
 function App() {
   return (
     <>
